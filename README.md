@@ -6,8 +6,13 @@ IDE       : Keil uVision
 
 User Commands: 
 c : Continue
+
 p : Pause
+
 b : restart
+
 n : No Operation
+
 l : Move one position left
+
 r : Move one position right
